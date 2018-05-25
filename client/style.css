@@ -1,0 +1,31 @@
+body{
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#addTask{
+    margin: 2em;
+}
+label{
+    margin: 1em;
+
+}
+input{
+    margin: 1em;
+}
+table{
+    margin: 1em;
+}
+tr{
+    margin: 1em;
+    
+}
+
+.delete {
+    display:none;
+}
+
+.done {
+    background-color: salmon;
+}
+
